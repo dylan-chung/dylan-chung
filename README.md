@@ -3,7 +3,6 @@
 <h2>Hi there! 👋</h2>
 
 I'm Dylan! 
-- 🌱 I’m currently brushing up Javascript
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
